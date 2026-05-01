@@ -19,6 +19,8 @@ This repository provides a clear and organized overview of:
 ## 🖼️ Architecture Overview
 
 Agentic AI Architecture
+<img width="1200" height="896" alt="AI_ecosystem_with_agents_202605012005" src="https://github.com/user-attachments/assets/4387ef66-8f65-4381-8e51-4ceb8cd62c89" />
+
 
 ---
 
