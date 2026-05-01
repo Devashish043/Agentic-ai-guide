@@ -94,7 +94,3 @@ If you found this helpful:
 - 📌 Save it for future reference  
 
 ---
-
-## 📬 Connect
-
-(You can add your GitHub / LinkedIn here)
